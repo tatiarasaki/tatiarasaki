@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tatiana</h1>
-- 🌱 I’m currently learning **.NET core, C#**
+- 🌱 I’m currently learning **.NET, C#**
 
 - 📫 How to reach me **taticasarotto@gmail.com**
 
