@@ -1,4 +1,5 @@
 <h1 align="center">Olá, Eu sou a Tatiana</h1>
+
 - 🌱 Neste exato momento, estou estudando a fundo **.NET, C#, Git e Deep Learning**
 
 - 📫 Como me contatar: **taticasarotto@gmail.com**
@@ -17,6 +18,7 @@
 </p>
 
 <h2>Hi, I'm Tatiana</h2>
+
 - 🌱 I’m currently learning **.NET, C#**
 
 - 📫 How to reach me **taticasarotto@gmail.com**
