@@ -1,4 +1,20 @@
-<h1 align="center">Hi 👋, I'm Tatiana</h1>
+<h1 align="center">Olá, Eu sou a Tatiana</h1>
+- 🌱 Neste exato momento, estou estudando a fundo **.NET, C#, Git e Deep Learning**
+
+- 📫 Como me contatar: **taticasarotto@gmail.com**
+
+- 📄 Aqui você pode ver o meu currículo: [https://sites.google.com/view/cvtatianaarasakicasarotto/p%C3%A1gina-inicial](https://sites.google.com/view/cvtatianaarasakicasarotto/p%C3%A1gina-inicial)
+
+- 📚 Livros que estou lendo: Continuous Discovery Habits - Teresa Torres / A Coragem de Não Agradar - Ichiro Kishimi e Fumitake Koga
+
+- Cursos que estou fazendo hoje: .NET/C# na DIO; Deep Learning na Samsung Ocean; Inglês na Wizard
+
+<h3 align="left">Encontre-me no linkedIn:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/tatianaarasakicasarotto/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tatianaarasakicasarotto/" height="30" width="40" /></a>
+</p>
+
+<h2>Hi, I'm Tatiana</h2>
 - 🌱 I’m currently learning **.NET, C#**
 
 - 📫 How to reach me **taticasarotto@gmail.com**
