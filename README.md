@@ -9,6 +9,8 @@
 
 - Cursos que estou fazendo hoje: .NET/C# na DIO; Deep Learning na Samsung Ocean; Inglês na Wizard
 
+- Um pouco sobre mim: https://about.me/tatianacasarotto
+
 <h3 align="left">Encontre-me no linkedIn:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tatianaarasakicasarotto/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tatianaarasakicasarotto/" height="30" width="40" /></a>
