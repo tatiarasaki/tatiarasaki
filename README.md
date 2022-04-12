@@ -7,9 +7,9 @@
 
 - 📚 Livros que estou lendo: Continuous Discovery Habits - Teresa Torres / A Coragem de Não Agradar - Ichiro Kishimi e Fumitake Koga
 
-- Cursos que estou fazendo hoje: .NET/C# na DIO; Deep Learning na Samsung Ocean; Inglês na Wizard
+- 👩‍🏫 Cursos que estou fazendo hoje: .NET/C# na DIO; Deep Learning na Samsung Ocean; Inglês na Wizard
 
-- Um pouco sobre mim: https://about.me/tatianacasarotto
+- 👩‍💻 Um pouco sobre mim: https://about.me/tatianacasarotto
 
 <h3 align="left">Encontre-me no linkedIn:</h3>
 <p align="left">
