@@ -1,6 +1,10 @@
 <h1 align="center">Olá, Eu sou a Tatiana</h1>
 
+- 👩‍🎓 Formanda do curso de **Ciências Econômicas** da UFSC e **Desenvolvedora** Full Stack
+
 - 🌱 Neste exato momento, estou estudando a fundo **.NET, C#, Git e Deep Learning**
+
+- 🗣️ Possuo **inglês avançado** e básico em italiano e japonês.
 
 - 📫 Como me contatar: **taticasarotto@gmail.com**
 
@@ -8,7 +12,7 @@
 
 - 📚 Livros que estou lendo: Continuous Discovery Habits - Teresa Torres / A Coragem de Não Agradar - Ichiro Kishimi e Fumitake Koga
 
-- 👩‍🏫 Cursos que estou fazendo hoje: .NET/C# na DIO; Deep Learning na Samsung Ocean; Inglês na Wizard
+- 👩‍🏫 Cursos que estou fazendo hoje: .NET/C# na DIO; Deep Learning na Samsung Ocean
 
 - 👩‍💻 Um pouco sobre mim: https://about.me/tatianacasarotto
 
