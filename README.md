@@ -2,7 +2,7 @@
 
 - 👩‍🎓 Formanda do curso de **Ciências Econômicas** da UFSC e **Desenvolvedora** Full Stack
 
-- 🌱 Neste exato momento, estou estudando a fundo **.NET, C# e Git**
+- 🌱 Neste exato momento, estou estudando a fundo **Python e Java**
 
 - 🗣️ Possuo **inglês avançado** e básico em italiano e japonês.
 
@@ -23,7 +23,7 @@
 
 <h2>Hi, I'm Tatiana</h2>
 
-- 🌱 I’m currently learning **.NET, C#**
+- 🌱 I’m currently learning **Java, Python**
 
 - 📫 How to reach me **taticasarotto@gmail.com**
 
