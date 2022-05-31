@@ -1,4 +1,3 @@
-<h1 align="center">Olá, Eu sou a Tatiana</h1>
 
 - 👩‍🎓 Formanda do curso de **Ciências Econômicas** da UFSC e **Desenvolvedora** Full Stack
 
