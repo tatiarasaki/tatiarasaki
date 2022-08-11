@@ -1,19 +1,5 @@
-
-- 👩‍🎓 Formanda do curso de **Ciências Econômicas** da UFSC e **Desenvolvedora** Full Stack
-
-- 🌱 Neste exato momento, estou estudando a fundo **Python e Java**
-
-- 🗣️ Possuo **inglês avançado** e básico em italiano e japonês.
-
 - 📫 Como me contatar: **taticasarotto@gmail.com**
 
-- 📄 Aqui você pode ver o meu currículo: [https://sites.google.com/view/cvtatianaarasakicasarotto/p%C3%A1gina-inicial](https://sites.google.com/view/cvtatianaarasakicasarotto/p%C3%A1gina-inicial)
-
-- 📚 Livros que estou lendo: Continuous Discovery Habits - Teresa Torres / A Coragem de Não Agradar - Ichiro Kishimi e Fumitake Koga
-
-- 👩‍🏫 Cursos que estou fazendo hoje: .NET/C# na DIO; Desenvolvimento Ágil - DevOps GIT na Samsung Ocean; Introdução à Programação Orientada a Objetos na UFSC.
-
-- 👩‍💻 Um pouco sobre mim: https://about.me/tatianacasarotto
 
 <h3 align="left">Encontre-me no linkedIn:</h3>
 <p align="left">
@@ -22,11 +8,7 @@
 
 <h2>Hi, I'm Tatiana</h2>
 
-- 🌱 I’m currently learning **Java, Python**
-
 - 📫 How to reach me **taticasarotto@gmail.com**
-
-- 📄 Know about my experiences [https://sites.google.com/view/cvtatianaarasakicasarotto/p%C3%A1gina-inicial](https://sites.google.com/view/cvtatianaarasakicasarotto/p%C3%A1gina-inicial)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
