@@ -1,16 +1,7 @@
-- 📫 Como me contatar: **taticasarotto@gmail.com**
-
-
-<h3 align="left">Encontre-me no linkedIn:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tatianaarasakicasarotto/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tatianaarasakicasarotto/" height="30" width="40" /></a>
-</p>
-
 <h2>Hi, I'm Tatiana</h2>
 
-- 📫 How to reach me **taticasarotto@gmail.com**
+📫 **taticasarotto@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tatianaarasakicasarotto/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tatianaarasakicasarotto/" height="30" width="40" /></a>
 </p>
